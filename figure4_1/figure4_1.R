@@ -9,7 +9,7 @@ require("expm")
 rm(list=ls())
 
 source("olsvarc.R")
-source("irfvar0.R")
+source("irfvar.R")
 
 # Data from Kilian and Park (2009) for 1973.2-2006.12
 # data=[dprod rea rpoil dd] where
@@ -32,7 +32,7 @@ SIGMA<-olsRes$SIGMA[1:q,1:q]
 # VAR impulse response analysis (all structural shocks are normalized to 
 # generate an increase in the real price of oil)
 horizon<-0:h;
-IRF=irfvar0(A,SIGMA,p,h);
+IRF=irfvar(A,SIGMA,p,h);
 IRF[1,]=cumsum(IRF[1,]);
 IRF[5,]=cumsum(IRF[5,]);
 IRF[9,]=cumsum(IRF[9,]);
