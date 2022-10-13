@@ -6,7 +6,7 @@
 # This file generates row h of Table 4.1
 
 rm(list=ls())
-setwd("/mnt/Disco1/Jupyter/R/Atendimentos/Wilson TS/table4_1")
+
 library(expm) # matrix algebra
 
 # Data from Kilian and Park (2009) for 1973.2-2006.12:

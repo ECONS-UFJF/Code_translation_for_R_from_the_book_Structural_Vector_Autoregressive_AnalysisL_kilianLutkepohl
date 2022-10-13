@@ -6,7 +6,6 @@
 # translate to R by André Suriane ECONS ECONOMIA UFJF 
 
 rm(list = ls())
-setwd("/mnt/Disco1/Jupyter/R/Atendimentos/Wilson TS/figure4_2")
 source("irfvar.R")
 
 
