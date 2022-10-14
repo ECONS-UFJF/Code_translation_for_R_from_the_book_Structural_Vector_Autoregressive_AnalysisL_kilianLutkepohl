@@ -1,13 +1,15 @@
+# translate to R by André Suriane ECONS ECONOMIA UFJF 
+#
 # FIGURE4_2.M
 #
 # Kilian and Lutkepohl (2017), Structural VAR Analysis, Cambridge University Press.
 # This file generates Figure 4.2
 #
-# translate to R by André Suriane ECONS ECONOMIA UFJF 
+
 
 rm(list = ls())
 source("irfvar.R")
-
+library(pracma)
 
 # Load Kilian and Lee (2014) data and estimates:
 # y       Data matrix
@@ -45,7 +47,7 @@ for( i in 1:(t-p)) {
 
 ###########################################################################
 # Plot actual demeaned real price of oil and its historical decomposition
-library(pracma)
+
 p = 24
 time<-seq((1973+2/12+p[[1]]/12),(2012+5/12), by= 1/12) 
 
