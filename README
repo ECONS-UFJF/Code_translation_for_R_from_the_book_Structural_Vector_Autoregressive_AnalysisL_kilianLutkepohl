@@ -1,6 +1,6 @@
 Code translation for R from the book.
 Textbook 'Structural Vector Autoregressive Analysis' by Lutz Kilian and Helmut Lütkepohl, Cambridge University Press, 2017. link <https://sites.google.com/site/lkilian2019/textbook>
-original codes in MatLab -> <https://sites.google.com/site/lkilian2019/textbook/code>
+original codes in -> <https://sites.google.com/site/lkilian2019/textbook/code>
 
 **Databases are also available at the link** -> <https://sites.google.com/site/lkilian2019/textbook/code>
 
@@ -8,3 +8,9 @@ original codes in MatLab -> <https://sites.google.com/site/lkilian2019/textbook/
 This translation is intended to serve students of the time series course of the postgraduate program in economics at the federal university of Juiz de Fora.
 
 By André Suriane
+
+references:
+Hiebelerm D.(2010) MATLAB® / R Reference. <https://cran.r-project.org/doc/contrib/Hiebeler-matlabR.pdf>
+Hankin, R. (2001)  R FOR OCTAVE USERS. <https://cran.r-project.org/doc/contrib/R-and-octave.txt>
+MathWorks (2022) Help Center, Documentation. <https://www.mathworks.com/help/matlab/>
+Lutz Kilian and Helmut Lütkepohl (2017) Structural Vector Autoregressive Analysis.  <https://sites.google.com/site/lkilian2019/textbook>
