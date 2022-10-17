@@ -1,8 +1,9 @@
+# translate to R by André Suriane ECONS ECONOMIA UFJF 
+#
 # DESEASONAL.M
 # Lutz Kilian
 # University of Michigan
 # August 2010
-# translate to R by André Suriane ECONS ECONOMIA UFJF 
 # This program fits monthly seasonal dummies to a univariate time series 
 # and returns the residuals
 
