@@ -1,3 +1,5 @@
+## translate to R by André Suriane ECONS ECONOMIA UFJF 
+#
 # FIGURE4_7.M
 #
 # Kilian and Lutkepohl (2017), Structural VAR Analysis, Cambridge University Press.
