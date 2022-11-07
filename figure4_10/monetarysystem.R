@@ -1,4 +1,6 @@
-# function: monetarysystem.m
+# translate to R by André Suriane ECONS ECONOMIA UFJF 
+#
+## function: monetarysystem.m
 # Load monthly dataset and run VAR
 #
 # Input:

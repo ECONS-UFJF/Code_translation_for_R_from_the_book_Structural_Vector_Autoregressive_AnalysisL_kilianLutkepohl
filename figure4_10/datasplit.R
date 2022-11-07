@@ -1,4 +1,6 @@
-# Function: datasplit.m
+# translate to R by André Suriane ECONS ECONOMIA UFJF 
+#
+## Function: datasplit.m
 # Take in data as columns, split into appropriate X and Y matrices
 # Logan Lewis
 # February, 2007

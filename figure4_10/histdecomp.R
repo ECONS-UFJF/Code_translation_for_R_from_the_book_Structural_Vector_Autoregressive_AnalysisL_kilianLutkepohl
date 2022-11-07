@@ -1,4 +1,6 @@
-# function: histdecomp.m
+# translate to R by André Suriane ECONS ECONOMIA UFJF 
+#
+## function: histdecomp.m
 # Decomposes the effects of a desired shock in both standard and counterfactual
 # environments (given by the full-period impulse response functions)
 #

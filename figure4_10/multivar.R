@@ -1,4 +1,6 @@
-# Function: multivar.m
+# translate to R by André Suriane ECONS ECONOMIA UFJF 
+#
+## Function: multivar.m
 # Estimate a VAR(p) with multivariate least squares
 # Logan Lewis
 # February, 2007

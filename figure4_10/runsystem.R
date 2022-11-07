@@ -1,4 +1,6 @@
-# script: runsystem.m
+# translate to R by André Suriane ECONS ECONOMIA UFJF 
+#
+## script: runsystem.m
 # Generate the system over all necessary sample periods and generate
 # bootstrapped confidence bands
 

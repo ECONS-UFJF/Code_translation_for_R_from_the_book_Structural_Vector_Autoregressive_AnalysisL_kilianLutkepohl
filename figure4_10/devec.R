@@ -1,4 +1,6 @@
-# Function: devec.m
+# translate to R by André Suriane ECONS ECONOMIA UFJF 
+#
+## Function: devec.m
 # Returns the matrix form of the vector passed, given the number of cols
 # Logan Lewis
 

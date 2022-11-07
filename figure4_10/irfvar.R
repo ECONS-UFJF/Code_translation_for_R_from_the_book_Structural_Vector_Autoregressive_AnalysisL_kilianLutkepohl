@@ -1,4 +1,6 @@
-# IRFVAR.M
+# translate to R by André Suriane ECONS ECONOMIA UFJF 
+#
+## IRFVAR.M
 # # Lutz Kilian
 # University of Michigan
 # April 1997

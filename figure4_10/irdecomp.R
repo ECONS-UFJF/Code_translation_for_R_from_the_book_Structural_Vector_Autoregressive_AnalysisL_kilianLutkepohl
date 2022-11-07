@@ -1,4 +1,6 @@
-# function: irdecomp.m
+# translate to R by André Suriane ECONS ECONOMIA UFJF 
+#
+## function: irdecomp.m
 # Implementation of irdecomp.m, with exactly the same formulation as
 # that in Kilian and Lewis (2009)
 # 

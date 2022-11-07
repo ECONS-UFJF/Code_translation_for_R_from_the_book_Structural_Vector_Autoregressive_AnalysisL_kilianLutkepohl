@@ -1,3 +1,5 @@
+# translate to R by André Suriane ECONS ECONOMIA UFJF 
+#
 # function: cfir.m
 # Implementation of counterfactuals exactly as written in Kilian and Lewis
 # (2011)
